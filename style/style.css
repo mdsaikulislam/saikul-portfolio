@@ -1,0 +1,42 @@
+.head{
+    width: 1600px;
+    height: 808px;
+    left: 0px;
+    top: 0px;
+    background-image: url('../images/banner/banner3.png');
+
+}
+
+.banner-title{
+    text-align: right;
+    padding: 216px 230px 24px 845px;
+}
+
+.banner-description{
+    text-align: right;
+    padding: 0 230px 32px 845px;
+}
+.btn{
+    text-align: right;
+    padding: 0 230px 166px 1210px;
+   
+}
+.about{
+    position: absolute;
+    display: flex;
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    padding: 130px 322px 130px 206px;
+}
+.about-bar{
+    padding: 130px 87px 130px 0px;
+}
+.about-info{
+    width: 416px;
+    height: 400px;
+    padding: 369px 0px 214px 0;
+}
+    
+ 
