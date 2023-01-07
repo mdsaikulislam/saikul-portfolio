@@ -74,4 +74,42 @@
     font-size: 30px;
 
 }
- 
+/* mind style */
+
+.mind{
+    padding: 124px 230px 130px 230px;
+    width: 1140px;
+    height: 400px;
+}
+
+.background{
+   
+    background-image: url(../images/gradient3.png);
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0));
+
+}
+
+.mind-title{
+   padding: 59px 617px 24px 64px;
+    font-weight: 700;
+    font-size: 30px; 
+    color: #FFFFFF;
+}
+.btn-call{
+    padding: 0px 916px 59px 64px;
+}
+.btn-discription{
+    
+    height: 60px;
+    width: 164px;
+    color: #F15B22;
+}
+
+/* footer style */
+
+.footer{
+    width: 1600px;
+    height: 577px;
+}
