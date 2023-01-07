@@ -11,17 +11,31 @@
 .banner-title{
     text-align: right;
     padding: 216px 230px 24px 845px;
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 65px;
 }
 
 .banner-description{
     text-align: right;
     padding: 0 230px 32px 845px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
 }
 .btn{
     text-align: right;
-    padding: 0 230px 166px 1210px;
+    color: #005FAC;
+    width: 109px;
+    height: 23px;
    
 }
+.btn-sub{
+    text-align: right;
+    padding: 0px 230px 136px 1236px;
+    
+}
+
 /* about style */
 .about{
     display: flex;
