@@ -1,3 +1,4 @@
+
 .head{
     width: 1600px;
     height: 808px;
@@ -21,8 +22,8 @@
     padding: 0 230px 166px 1210px;
    
 }
+/* about style */
 .about{
-    position: absolute;
     display: flex;
     width: 1072px;
     height: 723.3px;
@@ -30,6 +31,12 @@
     top: 939px;
     padding: 130px 322px 130px 206px;
 }
+.about-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
 .about-bar{
     padding: 130px 87px 130px 0px;
 }
@@ -38,5 +45,33 @@
     height: 400px;
     padding: 369px 0px 214px 0;
 }
+/* plan style */
 
+.plan{
+    width: 1141px;
+    height: 299.96px;
+    padding: 130px 230px 130px 230px;
+
+}
+.plan-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+
+}
+.plan-container{
+    display: flex;
+    gap: 86px;
+}
+.plan-discription{
+    padding: 0px 86px 0 86px;
+
+}
+.plan-info{
+    padding: 24px 0 6px 0;
+    font-weight: 700;
+    font-size: 30px;
+
+}
  
