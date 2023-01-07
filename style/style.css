@@ -110,6 +110,38 @@
 /* footer style */
 
 .footer{
+    display: flex;
     width: 1600px;
     height: 577px;
+    background: #151414;
+}
+.footer-add{
+    color: #F8F8F8;
+    width: 485px;
+    height: 317px;
+    padding: 130px 331px 130px 230px;
+}
+.subscribe-bar{
+    width: 325px;
+    height: 204px;
+    color: #F8F8F8;
+    padding: 130px 229px 243px 0px ;
+}
+.subscribs-tile{
+    font-weight: 600;
+    font-size: 25px;
+}
+.email-bar{
+    padding: 41px 0px 16px 0px;
+}
+.btn-subs{
+    width: 170.11px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    color: #F15B22;
+}
+.footer-icon{
+    display: flex;
+    gap: 20px;
 }
